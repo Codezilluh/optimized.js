@@ -1,0 +1,29 @@
+{
+	"name": "optimized.js",
+	"version": "1.0.0",
+	"description": "Helpful JS for-loop shorthands",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Codezilluh/optimized.js.git"
+	},
+	"keywords": [
+		"optimized",
+		"fast",
+		"speed",
+		"faster",
+		"foreach",
+		"filter",
+		"map"
+	],
+	"type": "module",
+	"author": "Codezilluh",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/Codezilluh/optimized.js/issues"
+	},
+	"homepage": "https://github.com/Codezilluh/optimized.js#readme"
+}
